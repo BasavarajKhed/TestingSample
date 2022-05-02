@@ -1,3 +1,5 @@
 Testing tools:
 01.selenium
-02,kjn
+02.UFT
+03.PYTHON
+04.JAVA
