@@ -1,0 +1,32 @@
+from behave import *
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+@given(u'i am in login page with username & password')
+def step_impl(context):
+    raise NotImplementedError(u'STEP: Given i am in login page with username & password')
+
+
+@when(u'i enter Basav and basav')
+def step_impl(context):
+    raise NotImplementedError(u'STEP: When i enter Basav and basav')
+
+
+@when(u'click on submit')
+def step_impl(context):
+    raise NotImplementedError(u'STEP: When click on submit')
+
+
+@then(u'verify the title of page')
+def step_impl(context):
+    raise NotImplementedError(u'STEP: Then verify the title of page')
+
+
+@when(u'i enter john and john')
+def step_impl(context):
+    raise NotImplementedError(u'STEP: When i enter john and john')
+
+
+@when(u'i enter joel and joel')
+def step_impl(context):
+    raise NotImplementedError(u'STEP: When i enter joel and joel')
